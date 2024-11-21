@@ -1,0 +1,5 @@
+print("Welcome to the Band Name Generator " /n + input("What is your name?"))
+input("What is your name?")
+my_string = input("What is your name?")
+length_of_string = len(my_string) 
+print(length_of_string)
